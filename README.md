@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @PierreMatisse
-- 🌱 I’m currently learning javascript, react/react-native
-- My first real copy : https://pm-deliveroo.netlify.app/
+- Currently available for build a website or an app with react or react-native 
