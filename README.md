@@ -8,4 +8,4 @@
 - Using : Firebase & Reactjs & Redux & Contexts & Stripe to fit perfectly with your project. 
 
 
-- Contact me for  : Pm-moiroud.dev@outlook.com
+- Contact me for  : Pm.moiroud-dev@outlook.fr
